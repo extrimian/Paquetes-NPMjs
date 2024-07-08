@@ -9,7 +9,7 @@ export {
   AgentModenaUniversalResolver, IAgentResolver
 } from "./models/agent-resolver";
 export { AgentSecureStorage } from "./models/agent-secure-storage";
-export { IAgentStorage } from "./models/agent-storage";
+export { IAgentStorage, IStorage } from "./models/agent-storage";
 export { DID } from "./models/did";
 export { DWNTransport } from "./models/transports/dwn-transport";
 export { ITransport } from "./models/transports/transport";
